@@ -20,6 +20,8 @@ dock.sh
 GoBuilds
 dist
 
+resources/*
+
 hugolib/hugo_stats.json
 resources/sunset.jpg
 
