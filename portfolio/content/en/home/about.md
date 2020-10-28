@@ -1,17 +1,17 @@
 ---
-title: "Little more about me"
+title: "About"
 image: "profile.jpg"
 weight: 8
 ---
 
-I'm **Parag Raut** & I'm a .Net Developer @ [T-Mobile NL BV](https://www.t-mobile.nl/).
+I'm **Parag Raut** .Net Developer @ [T-Mobile NL B.V.](https://www.t-mobile.nl/)
 
-### Features
+### Little more about me
 
-* Responsive display on any size screen
-* Light and Dark themes right out of the box
-* Multilingual - supports side-by-side content in multiple languages
-* Any number of custom index page sections from Markdown files
-* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
-* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
-* Styled Markdown throughout with support for Hugo's syntax highlighting
+* I'm an Electronics & Telecommunication Engineer originally from India 
+* Currenly in The Netherlands and working for one of the biggest Telecom provider T-Mobile NL B.V.
+* Full stack .Net developer
+* Seasoned test automation engineer
+* Experienced DevOps engineer
+* Creating custom applications to minimize human effort is my expertise
+* Experienced in many different areas, technologies & tools focusing the telecom domain

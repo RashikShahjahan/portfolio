@@ -3,4 +3,4 @@ title: "Hi, I'm Parag Raut"
 headless: true
 ---
 
-I'm a .Net developer
+.Net developer, Test Automation Specialist and a lot more..

@@ -8,7 +8,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle                   = "dark"                 # Choose "light" or "dark"
+    themeStyle                   = "light"                 # Choose "light" or "dark"
     favicon                      = "/img/favicon.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
@@ -34,7 +34,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
     [params.share]
         twitter                  = true
         facebook                 = true
-        googlePlus               = true
+        googlePlus               = false
         pinterest                = true
 
     # Social icons appear in introduction and contact section. Add as many more as you like.
@@ -105,17 +105,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         [languages.en.params]
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
-
-    [languages.es]
-        languageName     = "Español"
-        languageCode     = "es"
-        contentDir       = "content/es"
-        weight           = 1
-        title            = "Introducción"
-        [languages.es.params]
-            description  = "Descripcion del sitio web"
-            # footerText   = ""
-
+            
     [languages.de]
         languageName     = "Deutsch"
         languageCode     = "de"
