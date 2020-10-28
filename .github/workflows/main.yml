@@ -31,4 +31,4 @@ jobs:
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           cname: paragraut.me # Or anything else
-          siteDir: /github/workspace/portfolio     
+          siteDir: /github/workspace/portfolio
