@@ -26,6 +26,8 @@ jobs:
           node-version: '12'
           check-latest: true
       
+      - run: cd /github/workspace/portfolio
+      - run: ls -la
       - run: npm i -g postcss postcss-cli autoprefixer
 
       - name: Checkout Repo
