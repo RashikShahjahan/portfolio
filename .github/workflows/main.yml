@@ -31,6 +31,6 @@ jobs:
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           cname: paragraut.me # Or anything else
-          siteDir: /github/ParagRaut/portfolio/portfolio
+          siteDir: /github/workspace/portfolio
           # Use this if your site isn't in the root of your repo.
           # The root of your repo can be found at /github/workspace:  
