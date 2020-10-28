@@ -20,6 +20,7 @@ dock.sh
 GoBuilds
 dist
 
+/resources
 resources/*
 
 hugolib/hugo_stats.json
