@@ -20,10 +20,6 @@ dock.sh
 GoBuilds
 dist
 
+/public
+/node_modules
 /resources
-resources/*
-
-hugolib/hugo_stats.json
-resources/sunset.jpg
-
-vendor
