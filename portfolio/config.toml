@@ -106,5 +106,5 @@ DefaultContentLanguage           = "en"                    # Default language fo
         title            = "Portfolio"
         [languages.en.params]
             description  = "Portfolio & Blogs"   # Max 160 characters show in search results
-            footerText   = "Made with <i class=\"fa fa-coffee\"></i> by Parag Raut"
+            footerText   = "Made with ☕️ by Parag Raut"
 
