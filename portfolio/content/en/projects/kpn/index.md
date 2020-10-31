@@ -9,3 +9,5 @@ resources:
           weight: -100 # Optional weighting for a specific image in this project folder
 draft: false
 ---
+
+In KPN project I've played key role in creating POCs for open source test automation frameworks to enable DevOps practices and also implemented automated tests in CI/CD process for Java domain in KPN 
