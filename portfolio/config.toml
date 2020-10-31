@@ -104,8 +104,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Portfolio"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+            description  = "This is my portfolio"   # Max 160 characters show in search results
+            footerText   = "Made with <i class=\"fa fa-coffee\"></i> by Parag Raut"
 
