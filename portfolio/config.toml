@@ -11,8 +11,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
     themeStyle                   = "light"                 # Choose "light" or "dark"
     favicon                      = "/img/favicon.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
-    fadeIn                       = true                    # Turn on/off the fade-in effect
-    fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
+    fadeIn                       = false                    # Turn on/off the fade-in effect
+    fadeInIndex                  = true                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     email                        = "parag.raut@outlook.com"   # E-mail address for contact section
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
@@ -28,7 +28,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         timeZone                 = "Europe/Amsterdam"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "H:HH"                # https://momentjs.com/docs/#/displaying/format/
     [params.projects]
-        useTwoColumns            = false                   # Use a layout with two columns instead of three
+        useTwoColumns            = true                   # Use a layout with two columns instead of three
 
     # Share buttons on blog post pages
     [params.share]
