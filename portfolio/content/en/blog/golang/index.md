@@ -2,6 +2,7 @@
 title: "Golang"
 date: 2020-10-31T17:59:46+01:00
 tags: ["code", "golang"]
+series: ["learning"]
 ---
 
 Go, or as its easily google-able moniker, Golang, is a typed systems programming language created by Google. It was designed to be in the vein of C/C++ with Garbage Collection, simpler to read and write unlike C++, strong opinions about how code should be built and strong primitives to enable effective concurrency. It was originally designed as a thought experiment between Robert Griesemer (V8 engine, Google Distributed File System), Rob Pike (Unix Team) and Ken Thompson (B Programming Language, c predecessor).
