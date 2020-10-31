@@ -20,6 +20,6 @@ dock.sh
 GoBuilds
 dist
 
-/public
-/node_modules
-/resources
+/portfolio/public
+/portfolio/node_modules
+/portfolio/resources
