@@ -1,6 +1,6 @@
 ---
 title: "Hello World with Golang"
-date: 2020-10-31T17:59:46+01:00
+date: 2020-11-01T15:38:46+01:00
 tags: ["code", "golang"]
 series: ["learning"]
 ---
