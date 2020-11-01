@@ -5,7 +5,7 @@ title = "My Portfolio"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics                 = "UA-130559363-1"                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
