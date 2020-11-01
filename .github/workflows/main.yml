@@ -28,5 +28,6 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
+          hugoVersion: extended_0.49  
           cname: https://paragraut.me # Or anything else
           siteDir: /github/workspace/portfolio
