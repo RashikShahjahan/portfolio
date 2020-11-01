@@ -1,5 +1,5 @@
 ---
-title: "Golang"
+title: "Hello World with Golang"
 date: 2020-10-31T17:59:46+01:00
 tags: ["code", "golang"]
 series: ["learning"]

@@ -1,12 +1,12 @@
 ---
 title: "About"
 image: "profile.jpg"
-weight: 8
+weight: 10
 ---
 
-I'm **Parag Raut** .Net Developer @ [T-Mobile NL B.V.](https://www.t-mobile.nl/)
+**Parag Raut** .Net Developer @ [T-Mobile NL B.V.](https://www.t-mobile.nl/)
 
-### Little more about me
+#### Little more about me
 
 * I'm an Electronics & Telecommunication Engineer originally from India 
 * Currenly in The Netherlands and working for one of the biggest Telecom provider T-Mobile NL B.V.

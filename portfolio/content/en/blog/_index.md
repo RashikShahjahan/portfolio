@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-weight: 20
+weight: 30
 ---
 
-## I don't do much blogging but here are some for your curiosity
+##### I don't do much blogging but here are some to kill the cat (not literally tho 😸)
