@@ -103,8 +103,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Portfolio"
+        title            = "Parag Raut Portfolio"
         [languages.en.params]
-            description  = "Portfolio & Blogs"   # Max 160 characters show in search results
+            description  = "My Portfolio & Blog"   # Max 160 characters show in search results
             footerText   = "Made with ☕️ & 🍪 by Parag Raut"
 
