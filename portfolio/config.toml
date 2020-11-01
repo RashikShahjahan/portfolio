@@ -105,6 +105,6 @@ googleAnalytics                 = "UA-130559363-1"                     # https:/
         weight           = 0
         title            = "Parag Raut Portfolio"
         [languages.en.params]
-            description  = "My Portfolio & Blog"   # Max 160 characters show in search results
+            description  = "My portfolio & blog showcasing some of my professional work and hobbies"
             footerText   = "Made with ☕️ & 🍪 by Parag Raut"
 
