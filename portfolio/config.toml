@@ -8,7 +8,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 googleAnalytics                  = "UA-130559363-1"        # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle                   = "dark"                  # Choose "light" or "dark"
+    themeStyle                   = "light"                  # Choose "light" or "dark"
     favicon                      = "/img/favicon.ico"      # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
