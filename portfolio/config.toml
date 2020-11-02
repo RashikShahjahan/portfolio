@@ -8,7 +8,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 googleAnalytics                  = "UA-130559363-1"        # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle                   = "light"                  # Choose "light" or "dark"
+    themeStyle                   = "dark"                  # Choose "light" or "dark"
     favicon                      = "/img/favicon.ico"      # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
@@ -94,7 +94,7 @@ googleAnalytics                  = "UA-130559363-1"        # https://gohugo.io/t
     lineNumbersInTable = true
     noClasses = true
     # For styles, see https://xyproto.github.io/splash/docs/longer/all.html
-    style = "friendly"
+    style = "fruity"
     tabWidth = 4
 
 [languages]
