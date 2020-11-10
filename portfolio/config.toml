@@ -3,9 +3,9 @@ languageCode = "en-us"
 title = "My Portfolio & Blog"
 
 theme                            = "introduction"
-DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-disqusshortname                  = "paragraut"     # https://gohugo.io/content-management/comments
-googleAnalytics                  = ""        # https://gohugo.io/templates/internal/#google-analytics
+DefaultContentLanguage           = "en"                  # Default language for multilingual sites
+disqusshortname                  = "paragraut"           # https://gohugo.io/content-management/comments
+googleAnalytics                  = "G-62PGGK1DPY"        # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
