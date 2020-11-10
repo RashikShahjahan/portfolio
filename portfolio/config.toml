@@ -4,7 +4,7 @@ title = "My Portfolio & Blog"
 
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-disqusshortname                  = "disqus_2o56YticNk"     # https://gohugo.io/content-management/comments
+disqusshortname                  = "paragraut"     # https://gohugo.io/content-management/comments
 googleAnalytics                  = ""        # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
